@@ -87,5 +87,6 @@ int main()
     }
     cout<<"\n\nThe multiplication between the highest and the lowest number is: "<<mul<<endl;
     cout<<"\nThe division between the highest and the lowest number is: "<<divi<<endl;
+    cout<<"\nThe list of programming techniques used:\n1.Array\n2.For loop\n3.Selection(if condition)";
     return 0;
 }
